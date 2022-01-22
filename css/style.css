@@ -1,0 +1,26 @@
+/* :root{
+    --primary:;
+    --secondary:;
+    --pure:;
+    --
+} */
+
+body{
+    background: #FFFFFF;
+}
+
+.panda-commerce-bg{
+    background: #FEEAE9;
+}
+
+.pink-color{
+    color: #FF2B7E;
+}
+
+.pink-bg{
+    background: #FF2B7E;
+}
+
+.btn:hover{
+    background: #FF2B7E;
+}
